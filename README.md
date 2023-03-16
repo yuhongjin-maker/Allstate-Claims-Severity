@@ -35,3 +35,4 @@ Then change the categorical variables into numeric. I used only 1 column as the 
 
 ### Result
 
+I used only 1 column as the XGBoost algorithm. Once I predicted and converted to csv file we got a LB score of 1152.3107. So far this is the best model that I built.
